@@ -1,0 +1,21 @@
+{
+  "name": "apicomm",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "ApiComm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/ApiComm.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.4",
+    "soap": "^1.0.0"
+  }
+}
